@@ -1,5 +1,3 @@
-Config = Config or {}
-
 local restrictedSpeed = Config.RestrictedSpeed
 local bypassPermission = Config.BypassPermission
 local shootingAllowed = true
